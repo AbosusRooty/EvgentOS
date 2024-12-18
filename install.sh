@@ -38,5 +38,13 @@ pkg install cava
 pkg install pulseaudio
 echo installing firefox
 pkg install firefox
+echo install apps for fun and best work
+pkg install dosbox
+pkg install the-powder-toy
+pkg update -y && pkg upgrade -y
+pkg install git
+git clone https://github.com/FajarKim/games-termux
+cd games-termux
+bash install.sh
 echo INSTALLED COMPLETED
 to start, restart termux and type ./startmydesktop.sh
