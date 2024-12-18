@@ -41,10 +41,11 @@ pkg install firefox
 echo install apps for fun and best work
 pkg install dosbox
 pkg install the-powder-toy
+pkg install dmenu
 pkg update -y && pkg upgrade -y
 pkg install git
 git clone https://github.com/FajarKim/games-termux
 cd games-termux
 bash install.sh
 echo INSTALLED COMPLETED
-to start, restart termux and type ./startmydesktop.sh
+to start, restart termux and type in aterm (rofi -show drun) to use menu start
