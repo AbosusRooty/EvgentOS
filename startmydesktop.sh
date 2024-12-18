@@ -1,6 +1,4 @@
 vncserver
 export DISPLAY=:1
-openbox
-polybar
-rofi
+polybar & openbox & rofi & xcompmgr & xsetroot & dmenu
 echo follow @zhen6kreboot
