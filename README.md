@@ -8,3 +8,5 @@ This is the repository where i make files so as not to write!
 To install the file for me, write git clone (link to the file)
 but if it says that you need to install, write pkg install git
 WILL GO IF SOMEONE IS TOO LAZY)))
+thanks to K4mey for making ZhenOS
+спасибо K4mey за помощь
