@@ -1,4 +1,4 @@
 vncserver
 export DISPLAY=:1
-polybar & openbox & rofi & xcompmgr & xsetroot & dmenu & lxqt-panel & xfdesktop
-echo follow @zhen6kreboot
+polybar & openbox & rofi & xcompmgr & xsetroot & dmenu & xfce4-panel & nethunter kex &
+
